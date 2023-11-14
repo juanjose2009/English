@@ -93,11 +93,6 @@
 <td>Interrogative</td>
 
 <td>Was/were+Subject + (verb + -ing) + object + other words.+?</td
-
-<br>
-<br>
-<br>
-
 <table>
 
 <table border="1" bgcolor="white">
