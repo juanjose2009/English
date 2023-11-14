@@ -9,8 +9,6 @@
 
 <meta charset="utf-8">
 
-<title>Pagina web</title>
-
 </head>
 
 <body>
