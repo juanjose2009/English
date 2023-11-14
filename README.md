@@ -58,9 +58,6 @@
 
 </table>
 
-<br>
-<br>
-<br>
 
 <table>
 
