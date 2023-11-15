@@ -13,7 +13,7 @@
 
 <body>
 <h1>Verb tenses</h1>
-<hr size="5px" color="yellow" />
+<hr size="5px" color="black" />
 
 <body align="center" bgcolor="white">
 <img src=“https://www.google.com/search?client”>
