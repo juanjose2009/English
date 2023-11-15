@@ -13,7 +13,7 @@
 
 <body>
 <h1>Verb tenses</h1>
-<hr size="5px" color="black" />
+<hr size="5px" color="yellow" />
 
 <body align="center" bgcolor="white">
 <img src=“https://www.google.com/search?client”>
@@ -133,8 +133,7 @@
 
 </table>
 
-<p><a>href="https://es.wikipedia.org/wiki/Wikipedia:Portada">Wikipedia</a></p>
-
+<p> <a>"https://es.wikipedia.org/wiki/Pasado_simple"</a></p>
 
 </body>
 
