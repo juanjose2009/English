@@ -18,6 +18,7 @@
 <body align="center" bgcolor="white">
 <img src=“https://www.google.com/search?client”>
 
+<body align="center" bgcolor="black">
 
 
 <table>
@@ -132,7 +133,8 @@
 
 </table>
 
-<p> <a>"https://es.wikipedia.org/wiki/Pasado_simple"</a></p>
+<p><a>href="https://es.wikipedia.org/wiki/Wikipedia:Portada">Wikipedia</a></p>
+
 
 </body>
 
