@@ -132,7 +132,7 @@
 
 </table>
 
-<p> <a href="https://es.wikipedia.org/wiki/Pasado_simple"</a></a></p>
+<p> <a> href="https://es.wikipedia.org/wiki/Pasado_simple"</a></p>
 
 </body>
 
