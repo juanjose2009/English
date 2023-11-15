@@ -130,8 +130,7 @@
 
 </tr>
 
-</table>
-<p><a>”https://www.superprof.es/apuntes/idiomas/ingles/gramatica-inglesa/verb-tense/past-simple-and-past-continuous.html”></a></p>
+</table><a>”https://www.superprof.es/apuntes/idiomas/ingles/gramatica-inglesa/verb-tense/past-simple-and-past-continuous.html”></a>
 </body>
 
 </body>
