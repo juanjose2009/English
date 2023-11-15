@@ -130,8 +130,9 @@
 
 </tr>
 
-</table><a>”https://www.superprof.es/apuntes/idiomas/ingles/gramatica-inglesa/verb-tense/past-simple-and-past-continuous.html”></a>
-</body>
+</table>
+
+<p> <a href="https://es.wikipedia.org/wiki/Pasado_simple"</a></a></p>
 
 </body>
 
