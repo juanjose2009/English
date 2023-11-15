@@ -16,7 +16,8 @@
 <hr size="5px" color="black" />
 
 <body align="center" bgcolor="white">
-<img src=“https://www.google.com/search?client”>
+
+   <img src="/home/usuario/Escritorio/fondo-libro-ingles-dibujado-mano_23-2149483336.webp" width="230">
 
 <body align="center" bgcolor="black">
 
@@ -59,6 +60,10 @@
 
 </table>
 
+<br>
+<br> 
+<br> 
+
 
 <table>
 
@@ -94,11 +99,23 @@
 <td>Interrogative</td>
 
 <td>Was/were+Subject + (verb + -ing) + object + other words.+?</td
+
+<table border="1" bgcolor="white">
+
+</tr>
+
+</table>
+
+<br>
+<br> 
+<br> 
+
 <table>
 
 <table border="1" bgcolor="white">
 
   <tr>
+
 
 <th> </th>
 
@@ -133,10 +150,12 @@
 
 </table>
 
-<p> <a>"https://es.wikipedia.org/wiki/Pasado_simple"</a></p>
+<p><a href="https://es.wikipedia.org/wiki/Pasado_simple">wikipedia</a> es una red social y una aplicación móvil</p>
+
+
+https://youtu.be/VLj-Dbz-CWk?si=CB_uuJkLlKY4hb85
+
 
 </body>
-
-</html>
 
 
